@@ -755,7 +755,15 @@ html[lang=ru-RU] .newest h2 {
 article p,
 article ul {
   color: #5f6570;
-  font-size: 12.5px;
+  font-size: 18.5px;
+  list-style-type: none;
+}
+
+article p,
+article ul li {
+  padding-top: 10px;
+  text-decoration: none;
+
 }
 article h1 {
   margin-bottom: 0;
@@ -847,7 +855,7 @@ article h1 {
   margin-right: 0;
 }
 .block-project h2 {
-  margin: 0 0 0 2px;
+  margin: 21px 0 0 2px;
   line-height: 24px;
   min-height: 76px;
 }
@@ -2974,4 +2982,11 @@ margin-right: 24px;
 }
 .field-wrap.checkbox-wrap.label-right #ninja_forms_field_20_label{
 display: inline;
+}
+
+
+
+.services {
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
