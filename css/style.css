@@ -744,7 +744,7 @@ html[lang=ru-RU] .newest h2 {
   width: 291px;
   padding-left: 2px;
   margin: 0 0 12px;
-  height: 70px;
+/*  height: 70px;*/
 }
 .block-service h2 {
   margin: 26px 0 26px 2px;
@@ -846,10 +846,11 @@ article h1 {
   margin-top: 6px;
 }
 .block-project {
-  width: 300px;
+  width: 450px;
   float: left;
   margin-bottom: 48px;
-  margin-right: 32px;
+  margin-right: 16px;
+    margin-left: 18px;
 }
 .block-project.last {
   margin-right: 0;
