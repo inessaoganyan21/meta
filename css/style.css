@@ -287,7 +287,7 @@ body {
 }
 article p a,
 article p a:visited {
-  color: #23366d;
+  color: #3095b4;
   text-decoration: none;
   font-weight: 700;
 }
@@ -306,7 +306,7 @@ article p a:active {
 }
 h1 {
   font-family: 'PFAgoraSansPro', sans-serif;
-  color: #23366d;
+  color: #3095b4;
   font-weight: 900;
   font-size: 26px;
   margin: 47px 0 0 2px;
@@ -322,11 +322,11 @@ h2 a {
   color: #5f6570;
 }
 h2 a:hover {
-  color: #23366d;
+  color: #3095b4;
 }
 h3 {
   font-family: 'PFAgoraSansPro', sans-serif;
-  color: #23366d;
+  color: #3095b4;
   font-size: 21px;
   font-weight: 900;
 }
@@ -525,7 +525,7 @@ header form button {
   font-family: 'PFAgoraSansPro', sans-serif;
   font-size: 18px;
   font-weight: 400;
-  color: #23366d;
+  color: #3095b4;
   width: 50%;
   float: left;
   /*text-shadow: 0 1px #fff;*/
@@ -583,7 +583,7 @@ header form button {
   font-size: 12px;
   font-weight: bold;
   text-transform: uppercase;
-  color: #23366d;
+  color: #3095b4;
 }
 .newest h4 {
   margin: 25px 0 0 28px;
@@ -744,7 +744,7 @@ html[lang=ru-RU] .newest h2 {
   width: 291px;
   padding-left: 2px;
   margin: 0 0 12px;
-/*  height: 70px;*/
+  height: 70px;
 }
 .block-service h2 {
   margin: 26px 0 26px 2px;
@@ -755,15 +755,7 @@ html[lang=ru-RU] .newest h2 {
 article p,
 article ul {
   color: #5f6570;
-  font-size: 18.5px;
-  list-style-type: none;
-}
-
-article p,
-article ul li {
-  padding-top: 10px;
-  text-decoration: none;
-
+  font-size: 12.5px;
 }
 article h1 {
   margin-bottom: 0;
@@ -803,7 +795,7 @@ article h1 {
   font-weight: 100;
 }
 .related-services li a:hover {
-  color: #23366d;
+  color: #3095b4;
 }
 .related-projects {
   float: right;
@@ -846,17 +838,16 @@ article h1 {
   margin-top: 6px;
 }
 .block-project {
-  width: 450px;
+  width: 300px;
   float: left;
   margin-bottom: 48px;
-  margin-right: 16px;
-    margin-left: 18px;
+  margin-right: 32px;
 }
 .block-project.last {
   margin-right: 0;
 }
 .block-project h2 {
-  margin: 21px 0 0 2px;
+  margin: 0 0 0 2px;
   line-height: 24px;
   min-height: 76px;
 }
@@ -1228,7 +1219,7 @@ aside.sidebar.sidebar-left span {
   font-family: 'PFAgoraSansPro', sans-serif;
   font-weight: 100;
   font-size: 24px;
-  color: #23366d;
+  color: #3095b4;
   text-transform: none;
   margin: 0;
   margin-bottom: 6px;
@@ -1329,7 +1320,7 @@ aside.sidebar.sidebar-left span {
   color: #fff;
 }
 .benefit.active i {
-  color: #23366d;
+  color: #3095b4;
 }
 .benefit.active:hover i {
   color: #fff;
@@ -1470,7 +1461,7 @@ html[lang=ru-RU] .benefits-hint {
 }
 .benefits-steps .step.active {
   font-weight: 700;
-  color: #23366d;
+  color: #3095b4;
 }
 .benefits-steps .sep {
   float: left;
@@ -1537,12 +1528,12 @@ a#infiniteLoader {
   margin: 10px 0;
 }
 .slider-testimonial .quote strong {
-  color: #23366d;
+  color: #3095b4;
   font-size: 32px;
   font-weight: 400;
 }
 .slider-testimonial .quote span {
-  color: #23366d;
+  color: #3095b4;
   font-size: 56px;
   font-weight: 700;
   position: absolute;
@@ -1634,7 +1625,7 @@ ul.bxslider {
 }
 .bx-wrapper .bx-pager.bx-default-pager a:hover,
 .bx-wrapper .bx-pager.bx-default-pager a.active {
-  background: #23366d;
+  background: #3095b4;
 }
 /* DIRECTION CONTROLS (NEXT / PREV) */
 .bx-wrapper .bx-prev {
@@ -1688,7 +1679,7 @@ ul.bxslider {
 .ninja-forms-form label {
   font-size: 14px;
   font-weight: 700;
-  color: #23366d;
+  color: #3095b4;
   width: 150px;
   display: inline-block;
   *display: inline;
@@ -2145,7 +2136,7 @@ div.mob-menu {
   div.mobile-nav ul.menu li.menu-item a:hover {
     background-color: #fff;
     background-image: url(../img/arrow_right_hover.png);
-    color: #23366d;
+    color: #3095b4;
   }
   div.mobile-nav ul.menu li.menu-item {
     position: relative;
@@ -2906,7 +2897,7 @@ div.mob-menu {
   font-size: 12px;
 }
 .main-contacts p a {
-  color: #23366d;
+  color: #3095b4;
   text-decoration: none;
   font-weight: 700;
 }
@@ -2983,11 +2974,4 @@ margin-right: 24px;
 }
 .field-wrap.checkbox-wrap.label-right #ninja_forms_field_20_label{
 display: inline;
-}
-
-
-
-.services {
-  padding-top: 20px;
-  padding-bottom: 20px;
 }
