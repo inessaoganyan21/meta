@@ -634,7 +634,7 @@ header form button {
 }
 
 .new-innovation {
-	background: url('../img/bg_title_innovation_block.png') no-repeat;
+/*	background: url('../img/bg_title_innovation_block.png') no-repeat;*/
 	width: 319px;
 	height: 378px;
 	margin-top: 10px;
@@ -642,7 +642,7 @@ header form button {
 }
 
 .new-project {
-	background: url('../img/bg_title_project_block.png') no-repeat;
+	/*background: url('../img/bg_title_project_block.png') no-repeat;*/
 	width: 275px;
 	height: 384px;
 	margin-top: 58px;
