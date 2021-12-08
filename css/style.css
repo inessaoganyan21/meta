@@ -981,7 +981,7 @@ article h1 {
 	width: 444px;
 	float: left;
 	margin-bottom: 48px;
-	margin-right: 32px
+	margin-right: 32px;
 }
 
 .block-project2 p {
@@ -992,6 +992,10 @@ article h1 {
 	padding-left: 2px;
 	margin: 0 0 12px;
 	height: 20px
+}
+
+.cf2 {
+	padding-top: 100px;
 }
 
 .block-project3 {
@@ -1374,7 +1378,8 @@ aside.sidebar.sidebar-left span {
 }
 
 .bg-tool {
-	background: url('../img/bg_frontpage.jpg?v=1') center top repeat-x
+	/*background: url('../img/bg_frontpage.jpg?v=1') center top repeat-x*/
+	background-color: #2700ff00;
 }
 
 .visual {
