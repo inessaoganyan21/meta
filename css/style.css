@@ -994,6 +994,13 @@ article h1 {
 	height: 20px
 }
 
+.block-project3 {
+	width: 844px;
+	float: left;
+	margin-bottom: 48px;
+	margin-right: 32px
+}
+
 .block-project.last {
 	margin-right: 0
 }
